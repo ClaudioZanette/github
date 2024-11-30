@@ -4,6 +4,8 @@ Texto inserido pelo git local
 
 Texto inserido pelo github
 
+Texto inserido pela branch develop local
+
 Git ini.t: iniciando um repositório!
 
 Git clone: baixando um repositório!
