@@ -21,4 +21,4 @@ Git merge: mesclando branches!
 
 Git tag: criando rótulos para releases de software!
 
-Git reset: removendo as alterações!
+Git reset: removendo as alterações! NUNCA USAR, APAGA TODAS AS ALTERAÇÕES
